@@ -1,0 +1,91 @@
+id,type,level,keyword,title,explanation,example_1,translation_1,example_2,translation_2
+1,grammar,TOPIK I,-입니다,"formal ""to be""",Used in formal situations to state identity or facts,저는 학생입니다,I am a student,이것은 책입니다,This is a book
+2,grammar,TOPIK I,-이에요/예요,"polite ""to be""",Used in everyday conversation to state identity,저는 학생이에요,I am a student,이거는 물이에요,This is water
+3,grammar,TOPIK I,-은/는,topic marker,Marks the topic of the sentence and contrasts information,저는 학생이에요,"As for me, I am a student",이 책은 좋아요,This book is good
+4,grammar,TOPIK I,-이/가,subject marker,Marks the subject of the sentence,고양이가 있어요,There is a cat,비가 와요,It is raining
+5,grammar,TOPIK I,-을/를,object marker,Marks the object of the action,밥을 먹어요,I eat rice,책을 읽어요,I read a book
+6,grammar,TOPIK I,-에,time/place marker,Indicates time or destination,학교에 가요,I go to school,3시에 만나요,We meet at 3 o’clock
+7,grammar,TOPIK I,-에서,location of action,Indicates where an action takes place,학교에서 공부해요,I study at school,집에서 쉬어요,I rest at home
+8,grammar,TOPIK I,"-와/과, -하고",and (noun connector),"Connects nouns meaning ""and""",친구와 가요,I go with a friend,사과하고 바나나,Apple and banana
+9,grammar,TOPIK I,-도,also/too,"Indicates ""also"" or ""too""",저도 가요,I go too,이것도 좋아요,This is also good
+10,grammar,TOPIK I,-만,only,"Indicates limitation meaning ""only""",물만 마셔요,I drink only water,이것만 주세요,Please give me only this
+11,grammar,TOPIK I,-고,and (sequence),Connects verbs to show actions happening in sequence,밥을 먹고 자요,I eat and sleep,공부하고 쉬어요,I study and rest
+12,grammar,TOPIK I,-지만,but/however,Used to express contrast between two clauses,비가 오지만 가요,It is raining but I go,힘들지만 해요,It is hard but I do it
+13,grammar,TOPIK I,-아서/어서,because,Used to express reason or cause,배고파서 먹어요,I eat because I am hungry,바빠서 못 가요,I can’t go because I am busy
+14,grammar,TOPIK I,-고 싶다,want to,Used to express desire to do something,한국에 가고 싶어요,I want to go to Korea,밥을 먹고 싶어요,I want to eat
+15,grammar,TOPIK I,-(으)ㄹ 수 있다,can/ability,Used to express ability or possibility,갈 수 있어요,I can go,한국어를 할 수 있어요,I can speak Korean
+16,grammar,TOPIK I,-(으)세요,please/do,Used to make polite requests or commands,앉으세요,Please sit,들어오세요,Please come in
+17,grammar,TOPIK I,-(으)ㄹ까요,shall we,Used to suggest doing something together,갈까요?,Shall we go?,먹을까요?,Shall we eat?
+18,grammar,TOPIK I,-네요,exclamation,Used to express surprise or realization,맛있네요,It’s delicious!,크네요,It’s big!
+19,grammar,TOPIK I,-지 않다,negation,Used to make negative sentences,가지 않아요,I do not go,먹지 않아요,I do not eat
+20,grammar,TOPIK II,-(으)면서,while,Used to express two actions happening at the same time,음악을 들으면서 공부해요,I study while listening to music,걸으면서 전화해요,I talk on the phone while walking
+21,grammar,TOPIK II,-(으)려고 하다,intend to,Used to express intention or plan to do something,한국에 가려고 해요,I intend to go to Korea,공부하려고 해요,I plan to study
+22,grammar,TOPIK I,-아/어 보다,try doing,Used to express trying something,먹어 봐요,Try eating it,한국어를 말해 봐요,Try speaking Korean
+23,grammar,TOPIK I,-아/어 주다,do for someone,Used when doing something for someone else,도와 주세요,Please help me,문을 열어 주세요,Please open the door
+24,grammar,TOPIK I,-고 있다,progressive,Used to express an ongoing action,공부하고 있어요,I am studying,밥을 먹고 있어요,I am eating
+25,grammar,TOPIK I,-아/어야 하다,must,Used to express obligation,공부해야 해요,I must study,일해야 해요,I have to work
+26,grammar,TOPIK I,-아/어도 되다,may/allowed,Used to express permission,가도 돼요,You may go,먹어도 돼요,You may eat
+27,grammar,TOPIK II,-기 때문에,because,Used to express reason in formal situations,비가 오기 때문에 안 가요,I don’t go because it rains,바쁘기 때문에 못 만나요,I can’t meet because I am busy
+28,grammar,TOPIK I,-기 전에,before doing,Used to express doing something before another action,자기 전에 공부해요,I study before sleeping,먹기 전에 손을 씻어요,I wash my hands before eating
+29,grammar,TOPIK I,-(으)ㄴ 후에,after doing,Used to express doing something after another action,먹은 후에 공부해요,I study after eating,영화를 본 후에 집에 가요,I go home after watching a movie
+30,grammar,TOPIK I,-(으)ㄴ 적이 있다,have experience,Used to express past experience,한국에 간 적이 있어요,I have been to Korea,그 영화를 본 적이 있어요,I have seen that movie
+31,grammar,TOPIK II,-아/어 버리다,completion/regret,Used to express completion of an action often with regret,숙제를 해 버렸어요,I finished the homework (completely),지갑을 잃어버렸어요,I lost my wallet
+32,grammar,TOPIK I,-(으)ㄹ 거예요,future,Used to express future intention or prediction,내일 갈 거예요,I will go tomorrow,비가 올 거예요,It will rain
+33,grammar,TOPIK II,-겠다,guess/intention,Used to express guess or strong intention,맛있겠어요,It looks delicious,가겠습니다,I will go (formal)
+34,grammar,TOPIK I,-(으)ㄹ까요?,suggestion/question,Used to suggest or ask opinion,갈까요?,Shall we go?,먹을까요?,Shall we eat?
+35,grammar,TOPIK II,-(으)ㄴ/는 것,nominalization,Used to turn verbs into nouns,먹는 것이 좋아요,Eating is good,공부하는 것이 중요해요,Studying is important
+36,grammar,TOPIK II,-는 중이다,in the middle of,Used to express an action in progress,공부하는 중이에요,I am in the middle of studying,회의하는 중이에요,I am in a meeting
+37,grammar,TOPIK II,-다가,while doing then,Used when one action is interrupted by another,가다가 만났어요,I met (someone) while going,공부하다가 잤어요,I fell asleep while studying
+38,grammar,TOPIK II,-(으)ㄴ/는 데,background,Used to give background or context,비가 오는데 안 가요,"It is raining, so I don’t go",시간이 없는데 어떡해요,"I don’t have time, what should I do?"
+39,grammar,TOPIK II,-더라고요,realization,Used to express something realized from experience,맛있더라고요,It was delicious (I found),그 사람이 친절하더라고요,That person was kind
+40,grammar,TOPIK I,-(으)ㄹ 때,when,"Used to express time ""when""",갈 때 전화해요,Call me when you go,밥 먹을 때 이야기해요,Talk when you eat
+41,grammar,TOPIK II,-(으)ㄴ/는다면,if,Used to express a hypothetical condition,시간이 있다면 갈게요,"If I have time, I will go",돈이 많다면 여행할 거예요,"If I have a lot of money, I will travel"
+42,grammar,TOPIK II,-자마자,as soon as,Used to express immediately after something,집에 오자마자 잤어요,I slept as soon as I got home,문을 열자마자 들어왔어요,He came in as soon as the door opened
+43,grammar,TOPIK II,-(으)ㄹ수록,the more... the more,Used to show increasing degree,공부할수록 재미있어요,"The more I study, the more interesting it is",생각할수록 어려워요,"The more I think, the harder it gets"
+44,grammar,TOPIK II,-도록,so that,Used to express purpose or result,늦지 않도록 서두르세요,Hurry so that you are not late,잘 보이도록 크게 쓰세요,Write big so that it is visible
+45,grammar,TOPIK II,-게 되다,to end up doing,Used to express a change of state,한국에 가게 되었어요,I ended up going to Korea,그 일을 하게 되었어요,I came to do that work
+46,grammar,TOPIK II,-(으)ㄹ지도 모르다,might,Used to express uncertainty,비가 올지도 몰라요,It might rain,그가 올지도 몰라요,He might come
+47,grammar,TOPIK II,-나 보다,seems like,Used to make a guess based on observation,비가 오나 봐요,It seems like it’s raining,그 사람이 바쁜가 봐요,It seems like that person is busy
+48,grammar,TOPIK II,-는 것 같다,I think/seems,Used to express opinion or assumption,맞는 것 같아요,I think it’s correct,비가 오는 것 같아요,It seems like it’s raining
+49,grammar,TOPIK II,-아/어 보이다,looks like,Used to describe appearance,맛있어 보여요,It looks delicious,행복해 보여요,You look happy
+50,grammar,TOPIK II,-(으)ㄴ/는 편이다,tend to,Used to express general tendency,저는 많이 먹는 편이에요,I tend to eat a lot,그 사람은 조용한 편이에요,That person is rather quiet
+51,grammar,TOPIK II,-(으)ㄴ/는 척하다,pretend,Used to pretend doing something,모르는 척해요,I pretend not to know,아픈 척했어요,I pretended to be sick
+52,grammar,TOPIK II,-(으)ㄴ 채로,while in state,Used to keep a state while doing another action,문을 연 채로 잤어요,I slept with the door open,신발을 신은 채로 들어왔어요,He came in with shoes on
+53,grammar,TOPIK II,-(으)ㄹ 뻔하다,almost did,Used to express that something almost happened,넘어질 뻔했어요,I almost fell,늦을 뻔했어요,I almost was late
+54,grammar,TOPIK II,-(으)ㄹ 리가 없다,no way,Used to strongly deny possibility,그럴 리가 없어요,That can’t be true,그가 올 리가 없어요,There is no way he will come
+55,grammar,TOPIK II,-(으)ㄹ 필요가 없다,no need,Used to express that something is unnecessary,갈 필요가 없어요,No need to go,걱정할 필요가 없어요,No need to worry
+56,grammar,TOPIK II,-(으)ㄴ 덕분에,thanks to,Used to express positive reason,도와준 덕분에 성공했어요,"Thanks to your help, I succeeded",비가 온 덕분에 시원해요,"Thanks to the rain, it’s cool"
+57,grammar,TOPIK II,-(으)ㄴ 탓에,because of,Used to express negative reason,비가 온 탓에 늦었어요,I was late because of the rain,실수한 탓에 문제가 생겼어요,"Because of a mistake, a problem occurred"
+58,grammar,TOPIK II,-에 비해,compared to,Used to compare two things,작년에 비해 좋아졌어요,It improved compared to last year,가격에 비해 품질이 좋아요,The quality is good compared to the price
+59,grammar,TOPIK II,-에 따라,depending on,Used to show variation based on condition,날씨에 따라 달라요,It changes depending on the weather,사람에 따라 생각이 달라요,Opinions differ depending on the person
+60,grammar,TOPIK II,-(으)ㄴ/는 대신에,instead of,Used to express substitution,커피 대신에 차를 마셔요,I drink tea instead of coffee,공부하는 대신에 일해요,I work instead of studying
+61,grammar,TOPIK II,-(으)ㄹ 뿐만 아니라,not only but also,Used to express addition of another fact,그는 똑똑할 뿐만 아니라 친절해요,He is not only smart but also kind,이 책은 재미있을 뿐만 아니라 유익해요,This book is not only interesting but also useful
+62,grammar,TOPIK II,-(으)ㄴ/는 반면에,on the other hand,Used to contrast two situations,나는 좋아하는 반면에 친구는 싫어해요,"I like it, on the other hand my friend dislikes it",도시는 바쁜 반면에 시골은 조용해요,The city is busy while the countryside is quiet
+63,grammar,TOPIK II,-(으)ㄴ/는 만큼,as much as,Used to express degree or proportion,열심히 한 만큼 결과가 좋아요,The result is good as much as I worked hard,먹은 만큼 살이 쪄요,You gain weight as much as you eat
+64,grammar,TOPIK II,-(으)ㄴ/는 데다가,in addition,Used to add more information,비가 오는 데다가 바람도 불어요,"Not only is it raining, but also windy",그는 잘생긴 데다가 성격도 좋아요,He is handsome and also has a good personality
+65,grammar,TOPIK II,-(으)ㄴ/는 이유는,the reason is,Used to explain a reason,늦은 이유는 교통 때문이에요,The reason I was late is traffic,공부하는 이유는 목표가 있기 때문이에요,The reason I study is because I have a goal
+66,grammar,TOPIK II,-(으)ㄴ 결과,as a result,Used to show result of an action,열심히 공부한 결과 합격했어요,"As a result of studying hard, I passed",노력한 결과 성공했어요,"As a result of effort, I succeeded"
+67,grammar,TOPIK II,-(으)ㄴ 가운데,among,Used to indicate a situation within a group,많은 사람들 가운데 그를 찾았어요,I found him among many people,혼란스러운 가운데 결정을 했어요,I made a decision among confusion
+68,grammar,TOPIK II,-(으)ㄴ 이상,since/now that,Used when a condition is already true,시작한 이상 끝내야 해요,"Since we started, we must finish",약속한 이상 지켜야 해요,"Now that you promised, you must keep it"
+69,grammar,TOPIK II,-(으)ㄹ 예정이다,plan to,Used to express a planned action,내일 여행할 예정이에요,I plan to travel tomorrow,회의할 예정이에요,I plan to have a meeting
+70,grammar,TOPIK II,-(으)ㄹ 가능성이 있다,possibility,Used to express possibility,비가 올 가능성이 있어요,There is a possibility of rain,문제가 생길 가능성이 있어요,There is a possibility a problem may occur
+71,grammar,TOPIK II,-(으)ㄹ 수밖에 없다,have no choice,Used to express having no other option,늦어서 택시를 탈 수밖에 없어요,I had no choice but to take a taxi because I was late,비가 와서 집에 있을 수밖에 없어요,I had no choice but to stay home because it rained
+72,grammar,TOPIK II,-(으)ㄹ지도 모르겠다,might,Used to express uncertainty or possibility,비가 올지도 모르겠어요,It might rain,그가 올지도 모르겠어요,He might come
+73,grammar,TOPIK II,-(으)ㄹ 걸 그랬다,should have,Used to express regret about a past action,공부할 걸 그랬어요,I should have studied,일찍 갈 걸 그랬어요,I should have gone early
+74,grammar,TOPIK II,-(으)ㄹ 줄 알았다,thought would,Used to express expectation that something would happen,올 줄 알았어요,I thought he would come,비가 올 줄 알았어요,I thought it would rain
+75,grammar,TOPIK II,-(으)ㄹ 줄 몰랐다,didn’t know would,Used to express surprise or unexpected result,이렇게 어려울 줄 몰랐어요,I didn’t know it would be this difficult,그가 올 줄 몰랐어요,I didn’t know he would come
+76,grammar,TOPIK II,-(으)ㄴ/는다고 하다,reported speech,Used to report a statement,그는 간다고 했어요,He said he would go,비가 온다고 했어요,He said it would rain
+77,grammar,TOPIK II,-(으)라고 하다,command speech,Used to report a command,선생님이 공부하라고 했어요,The teacher told me to study,그가 기다리라고 했어요,He told me to wait
+78,grammar,TOPIK II,-자고 하다,suggestion speech,Used to report a suggestion,친구가 같이 가자고 했어요,My friend suggested going together,그가 먹자고 했어요,He suggested eating
+79,grammar,TOPIK II,-(으)ㄴ/는지 모르다,don’t know if,Used to express uncertainty about something,그가 오는지 몰라요,I don’t know if he is coming,맞는지 몰라요,I don’t know if it is correct
+80,grammar,TOPIK II,-(으)ㄴ/는지 알다,know if,Used to express knowing about something,그가 오는지 알아요,I know if he is coming,문제가 있는지 알아요,I know if there is a problem
+81,grammar,TOPIK II,-(으)ㄹ 때마다,every time,Used to express repetition whenever something happens,볼 때마다 웃어요,I smile every time I see it,그를 만날 때마다 기뻐요,I feel happy every time I meet him
+82,grammar,TOPIK II,-(으)ㄴ 채,while in state,Used to maintain a state while doing something,눈을 감은 채 잤어요,I slept with my eyes closed,불을 켠 채 나갔어요,I went out with the light on
+83,grammar,TOPIK II,-(으)ㄴ 김에,while at it,Used to do something additional while already doing something,온 김에 밥을 먹어요,"Since I’m here, I’ll eat",간 김에 친구를 만났어요,"Since I went, I met a friend"
+84,grammar,TOPIK II,-(으)ㄴ 덕에,thanks to,Used to express a positive result,도와준 덕에 끝냈어요,"Thanks to your help, I finished",날씨 덕에 기분이 좋아요,"Thanks to the weather, I feel good"
+85,grammar,TOPIK II,-(으)ㄴ 나머지,as a result,Used to express result of an extreme situation,너무 피곤한 나머지 잠들었어요,I was so tired that I fell asleep,긴장한 나머지 말을 못 했어요,I was so nervous that I couldn’t speak
+86,grammar,TOPIK II,-(으)ㄹ 겸,for the purpose of,Used to express doing something for multiple purposes,운동할 겸 산책해요,I walk for exercise,공부할 겸 도서관에 갔어요,I went to the library to study
+87,grammar,TOPIK II,-(으)ㄹ 뿐이다,just only,Used to emphasize that it is only that,나는 할 뿐이에요,I just do it,기다릴 뿐이에요,I just wait
+88,grammar,TOPIK II,-(으)ㄹ 따름이다,nothing but,Used to emphasize a simple fact,노력할 따름이에요,I can only try,기다릴 따름이에요,I can only wait
+89,grammar,TOPIK II,-(으)ㄹ 바에야,rather than,Used to choose one option over another,갈 바에야 집에 있어요,"Rather than go, I stay home",할 바에야 안 해요,I’d rather not do it
+90,grammar,TOPIK II,-(으)ㄹ 정도로,to the extent that,Used to express degree,울 정도로 슬펐어요,I was sad enough to cry,힘들 정도로 일했어요,I worked to the point of exhaustion
